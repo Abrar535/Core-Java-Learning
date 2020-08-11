@@ -1,6 +1,6 @@
 #Java 8:
 
-1. for each
+1. for each [here](https://github.com/Abrar535/Core-Java-Learning/blob/master/Java%208/src/main/Java8ForEachExample.java)
 2. default and static methods in Interfaces
 3. Functional Interfaces and Lambda Expressions(Functional Interface annotation)
 
